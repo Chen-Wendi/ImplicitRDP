@@ -1,3 +1,5 @@
+
+
 <h3 align="center">
     ImplicitRDP:
 </h3>
@@ -127,7 +129,7 @@ We provide the data we collected on [![data](https://img.shields.io/badge/data-F
    # ImplicitRDP
    ./train_implicitrdp.sh
    ```
-   > Make sure the `action_type` when post-processing the data is consistent with the the task config file.
+   > Make sure the `action_type` when post-processing the data is consistent with the task config file.
 
 ## 🚀 Inference
 1. (Optional) Refer to `vcamera_server_ip` and `vcamera_server_port` in the task config file and start the corresponding vcamera server.
