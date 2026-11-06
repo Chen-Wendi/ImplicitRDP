@@ -7,18 +7,18 @@
 
 <p align="center">
     <a href="https://wendichen.me">Wendi Chen</a><sup>12</sup>,
-    <a href="https://hanxue.me">Han Xue</a><sup>1</sup>,
+    <a href="https://hanxue.me">Han Xue</a><sup>2</sup>,
     Yi Wang<sup>12</sup>,
     <a href="https://uimicro.com">Fangyuan Zhou</a><sup>12</sup>,
-    <a href="https://lyuj1998.github.io">Jun Lv</a><sup>13</sup>,
-    <a href="https://github.com/EricJin2002">Yang Jin</a><sup>1</sup>,
+    <a href="https://lyuj1998.github.io">Jun Lv</a><sup>23</sup>,
+    <a href="https://github.com/EricJin2002">Yang Jin</a><sup>2</sup>,
     Shirun Tang<sup>3</sup>,
     <br>
-    <a href="https://alvinwen428.github.io">Chuan Wen</a><sup>1†</sup>,
+    <a href="https://alvinwen428.github.io">Chuan Wen</a><sup>2†</sup>,
     <a href="https://www.mvig.org">Cewu Lu</a><sup>123†</sup>
     <br>
-    <sup>1</sup>Shanghai Jiao Tong University
-    <sup>2</sup>Shanghai Innovation Institute
+    <sup>1</sup>Shanghai Innovation Institute
+    <sup>2</sup>Shanghai Jiao Tong University
     <sup>3</sup>Noematrix Ltd.
     <br>
     <sup>*</sup>Equal contribution
